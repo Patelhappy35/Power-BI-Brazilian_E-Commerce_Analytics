@@ -151,9 +151,10 @@ Analyze customer and seller geographic distribution.
 Use Power BI visuals, slicers, filters, and drill-down features.
 Present business information through an interactive dashboard.
 
-⭐ If you find this project useful
+## ⭐ If you find this project useful
 
 Feel free to explore the dashboard and dataset.
+
 **Made with Power BI 📊**
 
 ## 👩‍💻 Author
