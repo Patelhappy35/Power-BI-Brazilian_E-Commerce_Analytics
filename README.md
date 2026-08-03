@@ -47,17 +47,11 @@ The Power BI project uses a Star Schema with FactOrderItems as the central fact 
 ### Main Relationships
 
 FactOrderItems[order_id] → DimOrders[order_id]
-
 FactOrderItems[product_id] → DimProducts[product_id]
-
 FactOrderItems[seller_id] → DimSellers[seller_id]
-
 DimOrders[customer_id] → DimCustomers[customer_id]
-
 DimDate[Date] → DimOrders[order_purchase_timestamp]
-
 FactPayments[order_id] → DimOrders[order_id]
-
 FactReviews[order_id] → DimOrders[order_id]
 
 A dedicated DimDate calendar table is used for Year, Quarter, Month, Weekday, and time-based analysis.
@@ -131,6 +125,7 @@ Includes:
 
 📂 Repository Structure
 
+```text
 Brazilian-E-Commerce-PowerBI/
 │
 ├── PR_3.pbix
@@ -139,7 +134,7 @@ Brazilian-E-Commerce-PowerBI/
 ├── geographic_view.png
 ├── payments_Method.png
 └── Model_view.png
-
+```
 
 
 ## 🎯 Project Objective
