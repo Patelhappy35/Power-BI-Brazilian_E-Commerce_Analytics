@@ -130,9 +130,9 @@ Brazilian-E-Commerce-PowerBI/
 │
 ├── PR_3.pbix
 ├── README.md
-├── sales_overview.png
-├── geographic_view.png
-├── payments_Method.png
+├── Sales_overview.png
+├── Geographic_view.png
+├── Payment_Method.png
 └── Model_view.png
 ```
 
