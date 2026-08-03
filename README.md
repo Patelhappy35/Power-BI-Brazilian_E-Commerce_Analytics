@@ -76,7 +76,7 @@ Includes:
 * Monthly Order Volume
 * Year, Order Status & Product Category Slicers
 
-![Sales Overview](sales_overview.png)
+![Sales Overview](Sales_overview.png)
 
 
 
@@ -101,7 +101,7 @@ Includes:
 * Average Review Score by Product Category
 * Customer Satisfaction Analysis
 
-![Payments & Reviews](Payments_Method.png)
+![Payments & Reviews](Payment_Method.png)
 
 
 ## 🔍 Power BI Features Used
